@@ -25,7 +25,7 @@ SECRET_KEY = '^qb2stqu&7hs3)4%q*cme$1ppfvo=+=o94855w8y+ic7eq)+d+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['134.209.159.22','allstoree.com']
+ALLOWED_HOSTS = ['allstoree.com','134.209.159.22']
 
 
 # Application definition
