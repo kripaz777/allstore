@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c63208cb-0854-411a-8f31-75b52444323f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/migrations/0002_auto_20200101_1140.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/migrations/0003_order_orderitem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/migrations/0004_auto_20200124_1129.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,16 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ecommerce/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="146">
-              <caret line="68" column="10" lean-forward="true" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ecommerce/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -95,22 +92,6 @@
             <path>
               <item name="all-store" type="b2602c69:ProjectViewProjectNode" />
               <item name="all-store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="all-store" type="462c0819:PsiDirectoryNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="all-store" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="all-store" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="all-store" type="b2602c69:ProjectViewProjectNode" />
@@ -248,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581822577293</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update on requirements">
+      <created>1581824878121</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581824878121</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update on requirements">
+      <created>1581825563153</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1581825563153</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -493,13 +488,6 @@
     <entry file="file://$PROJECT_DIR$/home/migrations/0003_order_orderitem.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="68" column="10" lean-forward="true" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/migrations/0002_auto_20200101_1140.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -517,6 +505,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ecommerce/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
