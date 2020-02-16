@@ -25,7 +25,7 @@ SECRET_KEY = '^qb2stqu&7hs3)4%q*cme$1ppfvo=+=o94855w8y+ic7eq)+d+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['134.209.159.22']
+ALLOWED_HOSTS = ['134.209.159.22','allstoree.com']
 
 
 # Application definition
@@ -144,6 +144,5 @@ STATIC_URL = '/static/'
 #Redirection After Login Or Logout
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
-MEDIA_URL = 'images/'
-MEDIA_ROOT = os.path.join(BASE_DIR,'')
+
 STATIC_ROOT = '/opt/myproject/static/'
