@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="149" selection-start-line="149" selection-end-line="149" />
+            <state relative-caret-position="47">
+              <caret line="141" column="35" selection-start-line="141" selection-start-column="35" selection-end-line="141" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -79,6 +79,11 @@
             <path>
               <item name="all-store" type="b2602c69:ProjectViewProjectNode" />
               <item name="all-store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="all-store" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581881308346</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="All update">
+      <created>1581881883957</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1581881883957</updated>
+    </task>
+    <task id="LOCAL-00027" summary="All update">
+      <created>1581882045228</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1581882045228</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -556,8 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        <state relative-caret-position="47">
+          <caret line="141" column="35" selection-start-line="141" selection-start-column="35" selection-end-line="141" selection-end-column="35" />
         </state>
       </provider>
     </entry>
