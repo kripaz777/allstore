@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="148" selection-start-line="148" selection-end-line="148" />
+            <state relative-caret-position="177">
+              <caret line="149" selection-start-line="149" selection-end-line="149" />
             </state>
           </provider>
         </entry>
@@ -288,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581880948280</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="All update">
+      <created>1581881308346</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1581881308346</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -549,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        <state relative-caret-position="177">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
         </state>
       </provider>
     </entry>
