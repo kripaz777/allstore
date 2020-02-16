@@ -139,7 +139,7 @@ STATICFILES_DIRS = [
 ]
 
 MEDIA_URL = '/media/'
-MEDIA_ROOT = '/opt/myproject/images/'
+MEDIA_ROOT = '/opt/myproject/media/'
 STATIC_URL = '/static/'
 #Redirection After Login Or Logout
 LOGIN_REDIRECT_URL = '/'
